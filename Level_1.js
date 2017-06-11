@@ -39,7 +39,7 @@ function preload() {
 
   // Load fonts
   fonts.push(loadFont("lib/3Dventure.ttf"));
-  fonts.push(loadFont("lib/fipps.otf"));
+  fonts.push(loadFont("lib/Fipps.otf"));
   fonts.push(loadFont("lib/PerfectDOS.ttf"));
 
   // Load dialog
